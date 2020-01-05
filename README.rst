@@ -1,4 +1,4 @@
 Seccion: Conceptos Basico.
 --------------------------
 
-En los siguientes ejempls se muestra una de varias posibles respuestas de como resolver los ejercicios de la seccion mencionada anteriormente.
+En los siguientes ejemplos se muestra una de varias posibles solociones a los ejercicios de la seccion mencionada anteriormente.
